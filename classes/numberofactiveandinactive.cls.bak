@@ -20,7 +20,6 @@ public class numberofactiveandinactive {
             acc.Number_of_Inactive__c=inactive;
             ac.add(acc);
         }
-		
         update ac;
     }
 }
